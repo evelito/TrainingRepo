@@ -1,2 +1,6 @@
 agregando un extra file al proyecto
 # modificando informacion que se va quedar trackeada
+
+/ vamos a modificar este archivo por vacil / 
+
+(agregaremos unas cuantas lineas only)

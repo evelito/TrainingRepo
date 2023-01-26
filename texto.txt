@@ -1,2 +1,10 @@
 este es la primera linea de texto que se va comitear
 agregando una nueva linea
+
+# En este punto del proyeco tendremos nuestra primera version 
+
+# Aqui vamos a analizar unas cosas muy bonitas
+
+# probaremos las cosas nuevas que hemos aprendido
+
+# Mi nombre es Evel Castro
