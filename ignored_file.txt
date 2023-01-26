@@ -1,1 +1,2 @@
 # archivo que ignoraremos por completo
+# seguiremos ignorando este archivo
