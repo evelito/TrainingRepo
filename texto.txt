@@ -7,6 +7,6 @@ agregando una nueva linea
 
 # probaremos las cosas nuevas que hemos aprendido
 
-# Mi nombre es Evel Castro y mi hermano se llama Andres Merlos
+# Mi nombre es Evel Castro y mi hermana se llama Belen Carolina
 
 - Esta linea tambien se va agregar a la fusion
