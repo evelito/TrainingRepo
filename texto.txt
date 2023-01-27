@@ -11,3 +11,5 @@ agregando una nueva linea
 
 
 - Esta linea tambien se va agregar a la fusion
+# estamos agregando este texto en el repositorio remoto 
+# luego enviaremos estos cambios al repositorio local del proyecto
