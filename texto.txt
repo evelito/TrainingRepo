@@ -13,3 +13,6 @@ agregando una nueva linea
 - Esta linea tambien se va agregar a la fusion
 # estamos agregando este texto en el repositorio remoto 
 # luego enviaremos estos cambios al repositorio local del proyecto
+
+# esta nueva informacion esta siendo agregada desde el repo local 
+# vamos a enviar estos cambios al repositorio remoto, o sea lo contrario al commit anterior
